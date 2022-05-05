@@ -10,5 +10,26 @@ Learn more at https://sheesh.blog/system-wide-emoji-codes
 
 _NOTE: input data (`emoji.json`) originates from the [GitHub Emojis API][2]._ 
 
+## Try it 
+
+1. Clone this repository 
+
+   ```
+   git clone https://github.com/calebhailey/emojicodes.git
+   ```
+
+2. Compile
+
+   ```
+   cd emojicodes
+   go build
+   ```
+
+3. Generate
+
+   ```
+   ./emojicodes > emojicodes.plist
+   ```
+
 [1]: https://support.apple.com/guide/mac-help/back-up-and-share-text-replacements-on-mac-mchl2a7bd795/mac
 [2]: https://docs.github.com/en/rest/emojis
