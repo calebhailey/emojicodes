@@ -31,5 +31,14 @@ _NOTE: input data (`emoji.json`) originates from the [GitHub Emojis API][2]._
    ./emojicodes > emojicodes.plist
    ```
 
+4. Import 
+
+   Check out the ["Import text replacements" macOS User Guide].
+
+5. Profit
+
+   `:moneybag:` 💰
+
 [1]: https://support.apple.com/guide/mac-help/back-up-and-share-text-replacements-on-mac-mchl2a7bd795/mac
 [2]: https://docs.github.com/en/rest/emojis
+[3]: https://support.apple.com/guide/mac-help/back-up-and-share-text-replacements-on-mac-mchl2a7bd795/mac#mchl91960d04
