@@ -4,7 +4,7 @@ A quick & dirty hack to generate an [importable text replacements propery list (
 
 I regret nothing. 
 
-Learn more at https://sheesh.blog/system-wide-emoji-codes
+Learn more at https://sheesh.blog/posts/system-wide-emoji-codes
 
 `:v:` 
 
